@@ -5,6 +5,6 @@ classic/frontend/build/** linguist-generated
 docs/_javascript/** linguist-vendored
 
 # Exclude VCR cassettes from stats
-classic/forge/tests/vcr_cassettes/**/**.y*ml linguist-generated
+classic/forge/tests/**/**.y*ml linguist-generated
 
 * text=auto
