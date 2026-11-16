@@ -86,13 +86,13 @@ black = "^24.10.0"
 faker = "^37.6.0"
 httpx = "^0.28.1"
 isort = "^5.13.2"
-poethepoet = "^0.37.0"
+poethepoet = ">=0.37,<0.50"
 pre-commit = "^4.3.0"
 pyright = "^1.1.404"
 pytest-mock = "^3.14.0"
-pytest-watcher = "^0.4.2"
+pytest-watcher = ">=0.4.2,<0.7.0"
 requests = "^2.32.5"
-ruff = "^0.12.11"
+ruff = ">=0.12.11,<0.18.0"
 # NOTE: please insert new dependencies in their alphabetical location
 
 [build-system]
